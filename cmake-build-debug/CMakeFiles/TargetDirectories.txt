@@ -1,0 +1,3 @@
+/Users/alinaalekseeva/CLionProjects/LR4-3_Alieksieieva/cmake-build-debug/CMakeFiles/LR4_3_Alieksieieva.dir
+/Users/alinaalekseeva/CLionProjects/LR4-3_Alieksieieva/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alinaalekseeva/CLionProjects/LR4-3_Alieksieieva/cmake-build-debug/CMakeFiles/rebuild_cache.dir
